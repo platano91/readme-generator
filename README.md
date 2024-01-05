@@ -21,7 +21,10 @@ node index.js
 
 Follow the prompts to input information about your project.
 
+## video walkthrough and screenshot
 video link walkthrough: https://drive.google.com/file/d/1GdBMY8R0Tg5VsmCT-Q68gbQUxXoqMkK7/view
+
+![readme screenshot](./assets/Screenshot%202024-01-05%20at%204.21.18 PM.png)
 
 ## Features
 Dynamic README generation.
