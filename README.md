@@ -21,6 +21,8 @@ node index.js
 
 Follow the prompts to input information about your project.
 
+video link walkthrough: https://drive.google.com/file/d/1GdBMY8R0Tg5VsmCT-Q68gbQUxXoqMkK7/view
+
 ## Features
 Dynamic README generation.
 Customizable sections including Description, Installation, Usage, and more.
